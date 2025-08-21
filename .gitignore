@@ -1,1 +1,7 @@
+# git ignore file for Python VBAIGame
 venv
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
